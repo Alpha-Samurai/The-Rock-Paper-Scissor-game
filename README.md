@@ -64,12 +64,14 @@ Enter your choice to begin
 You Won !!
 
  Play again? Type 'Yes' to continue or 'No' to quit : Yes
-Enter your choice to begin
+
+Enter your choice to begin :
  R for rock
  P for paper
  S for scissor : X
 Invalid Input
-Enter your choice to begin
+
+Enter your choice to begin :
  R for rock
  P for paper
  S for scissor : P
@@ -80,7 +82,7 @@ Enter your choice to begin
 That's a Draw
 
  Play again? Type 'Yes' to continue or 'No' to quit : No
-Ok Bye
+ Thank you for playing !!
 ```
 
 ---
